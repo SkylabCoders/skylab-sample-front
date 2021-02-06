@@ -3,7 +3,7 @@
 The App is a full responsive Pokédex Web App which displays a list of the first 151 pokemons and their details.
 
 This is the front-end repository, and to work, it needs the back-end part you can find in this link:
-
+[skylab-sample-back](https://github.com/SkylabCoders/skylab-sample-back)
 # To run the project (scripts)
 
 After you clone the project go inside each folder **[front-end, back-end]** and run the command **npm install** on both (_Used node version: 14.15.3_)

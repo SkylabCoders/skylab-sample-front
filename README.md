@@ -1,4 +1,4 @@
-# Gerard-Pokedex
+# Skylab-Sample-Front-Pokedex
 
 The App is a full responsive Pokédex Web App which displays a list of the first 151 pokemons and their details.
 

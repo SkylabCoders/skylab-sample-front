@@ -53,7 +53,3 @@ The scripts you can run with npm (or yarn) are:
 - The App combines using a personal DB (hosted in Atlas from MongoDB) and the Pokemon API (https://pokeapi.co/) for loading all the data.
 
 - Some of the features (**Pokemon moves** for example) require a long time for the API to respond. Pokemons with lots of moves can take longer than 30s (you can try it with Caterpie for example for faster results).
-
-- I'd be really happy and gratefull to recieve any kind of feedback, feel free to comment :grin: !!
-
-Gerard
